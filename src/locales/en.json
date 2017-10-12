@@ -1,0 +1,65 @@
+{
+    "nav": {
+      "home": "home",
+      "about": "about",
+      "skills": "skills",
+      "works": "works",
+      "contact": "contact"
+    },
+
+    "header": {
+      "simple": "simple,",
+      "bright": "bright",
+      "and": "and with",
+      "love": " love.",
+      "smallHello": "Hello, i'm young front-end developer so if u want to get to know me just click the button below.",
+      "seeMoreBtn": "see more"
+    },
+
+    "about": {
+      "aboutMe": "About me",
+      "hi": "Hi, i'm Bartłomiej.",
+      "iam": "I'm a",
+      "young": " young",
+      "feDev": " Frontend Developer.",
+      "1st": " I come from a small village near Nowy Sącz. I have more than a year's experience in a comercial industry, but my adventure with frontend began in march 2016. I have graduated from State University of Applied Sciences in Nowy Sacz with the title of an engineer.",
+      "2nd": "I'm a young, a little shy person, but I'm always open to new friendships. I enjoy watching foreign tv shows, playing MMORPG games and hiking.",
+      "3rd": "I'm also interested in graphics and design, I am able to design a logo, banner, or a layout of a website / application.",
+      "4th": "For more details, click the button below and download my CV.",
+      "downloadBtn": "download cv"
+    },
+
+    "skills": {
+      "title": "Skills",
+      "html": "The basic technologies I use are HTML and CSS without which it is impossible to write even a simple page. I often use CSS preprocessors and frameworks like bootstrap to speed up my work.",
+      "js": "In order to create a website interaction with the user I use JavaScript. I'm intrested in Frontend, so I use it mostly on the client side - jQuery scripts or applications using new frontend frameworks",
+      "tools": "Tools",
+      "toolsDesc": "You need a good text editor to write any webpage / application. It's also good to store your code somewhere and manage it appropriately - for example, using Git. I also often use Adobe Photoshop to design a simple graphic.",
+      "other": "Other",
+      "otherDesc": "Today's websites are based on different content management systems. I personally have some experience with Wordpress. I also had contact with relational and non-relational databases.",
+      "knowLess": "I know little bit less:"
+    },
+
+    "works": {
+      "title": "Works",
+      "1stdesc": "Yournurse is an application to create job schedules for employees. Users with access to the application have the ability to add, delete and edit employees and their data. The application allows you to assign work hours to worker on a calendar and calculate his work time in month. The result is generated to an external PDF file.",
+      "2nddesc": "Butterfly is an e-commerce Wordpress theme (clothing store) based on free PSD files. The theme was coded from scratch using Advanced Custom Fields and Custom Posts. ACF and Woocommerce plugins are required for proper operation.",
+      "3rddesc": "Crazy volley is a browser game that uses the new HTML5 standard, or rather its component - canvas. Game is base on rules of playing volleyball. Player can plays with a second player (WSAD), or with a simple bot. The game was made using the PhaserJS framework.",
+      "4thdesc": "A website (or SPA Application) designed and coded to showcase my previous work. I used Adobe Photoshop to design the layout and graphics.",
+      "5thdesc": "A simple static page, encoded from a free PSD file, when I started my adventure with Frontend. I've used simple jQuery scripts and pure CSS here.",
+      "used": "Technologies used:",
+      "gitBtn": "github code",
+      "liveBtn": "live review"
+    },
+
+    "contact": {
+      "title": "Contact",
+      "touch": "Get in touch.",
+      "hire": "If you want to hire me, and work with me - just write.",
+      "reply": "I will reply as soon as I can.",
+      "name": "Jon Doe",
+      "mail": "example@gmail.com",
+      "message": "Your message",
+      "sendBtn": "send message"
+    }
+}

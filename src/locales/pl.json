@@ -1,0 +1,66 @@
+{
+  "nav": {
+
+    "home": "główna",
+    "about": "o mnie",
+    "skills": "umiejętności",
+    "works": "portfolio",
+    "contact": "kontakt"
+  },
+
+  "header": {
+    "simple": "proste",
+    "bright": "przejrzyste,",
+    "and": "i z",
+    "love": " pasją.",
+    "smallHello": "Cześć, jestem młodym Frontend Developerem. Jeśli chcesz poznać mnie bliżej kliknij przycisk poniżej.",
+    "seeMoreBtn": "o mnie"
+  },
+
+  "about": {
+    "aboutMe": "O mnie",
+    "hi": "Hej, jestem Bartek.",
+    "iam": "Jestem",
+    "young": " młodym",
+    "feDev": " Frontend Developerem.",
+    "1st": " Pochodzę z małej miejscowości niedaleko Nowego Sącza. Posiadam nieco ponad rok doświadczenia komercyjnego, ale swoją przygodę z Frontendem rozpocząłem marcem 2016 roku. Jestem absolwentem Państwowej Wyższej Szkoły Zawodowej w Nowym Sączu z tytułem inżyniera.",
+    "2nd": "Jestem młodym, może trochę nieśmiałym chłopakiem, lecz pomimo tego chętnie nawiązuje nowe znajomości. Lubię oglądać zagraniczne seriale, grać w MMORPG i piesze wycieczki po górach.",
+    "3rd": "Interesuję się też grafiką i designem. Jestem w stanie stworzyć bannery, logo, czy też layout strony/aplikacji.",
+    "4th": "Jeśli interesuje Cie więcej szczegółów, kliknij w przcisk poniżej i pobierz moje CV.",
+    "downloadBtn": "pobierz cv"
+  },
+
+  "skills": {
+    "title": "Umiejętności",
+    "html": "HTML i CSS to podstawowe technologie, które używam na codzien i bez których nie da się napisać nawet prostej strony. Często używam preproceserów CSS i Bootstrap'a by przyśpieszyć pracę.",
+    "js": "By zapewnić interakcję strony z użytkownikiem używam języka JavaScript. Często używam jQuery do pisania skryptów, oraz nowoczesnych frameworków do pisania aplikacji.",
+    "tools": "Narzędzia",
+    "toolsDesc": "Do napisania strony lub aplikacji potrzebny jest dobry edytor tekstowy. Używając Git, jestem w stanie przechowywać swój kod na serwerze i odpowiednio nim zarządzać. W celu zaprojektowania grafiki używam programu Adobe Photoshop.",
+    "other": "Inne",
+    "otherDesc": "Dzisiejsze strony internetowe najczęściej oparte są o system zarządzania treścią. Osobiście posiadam doświadczenie przy pracy z Wordpressem. Miałem też styczność z relacyjnymi i nierelacyjnymi bazami danych.",
+    "knowLess": "Znam trochę słabiej:"
+  },
+
+  "works": {
+    "title": "Portfolio",
+    "1stdesc": "Yournurse jest to aplikacja to tworzenia grafików pracy dla pracowników. Użytkownik mający dostęp do aplikacji ma możliwość dodawania, usuwania i edytowania pracowników i ich danych. Aplikacja umożliwia przypisanie danemu pracownikowi dyżuru w danym dniu kalendarzowym i oblicza jego czas pracy w miesiącu. Wynik tak ułożonego grafiku jest generowany do zewnętrznego pliku PDF.",
+    "2nddesc": "Butterfly to motyw e-commerce CMS Wordpress sklepu odzieżowego wykonany na podstawie darmowych plików PSD. Motyw został zakodowany od zera przy użyciu Advanced Custom Fields i Custom Posts. Do poprawnego działania potrzebne są wtyczki ACF oraz Woocommerce.",
+    "3rddesc": "Crazy volley to gra przeglądarkowa wykorzystująca nowy standard HTML5, a raczej jego komponent - canvas. Jest to gra zręcznościowa oparta o zasady gry w siatkówkę. Gra umożliwia rozgrywkę z drugim graczem (WSAD), lub też z prostym botem. Gra została wykonana za pomocą frameworku PhaserJS.",
+    "4thdesc": "Strona zaprojektowana i zakodowana w celu przedstawienia swoich wcześniejszych prac. Do zaprojektowania layoutu i grafik użyłem programu Adobe Photoshop.",
+    "5thdesc": "Prosta statyczna strona, zakodowana z darmowego pliku PSD, gdy zaczynałem swoją przygodę z Frontendem. Użyłem tutaj prostych skryptów jQuery oraz pure CSS. ",
+    "used": "Użyte technologie:",
+    "gitBtn": "kod github",
+    "liveBtn": "podgląd"
+  },
+
+  "contact": {
+    "title": "Kontakt",
+    "touch": "Skontaktuj się ze mną.",
+    "hire": "Jeśli chciałbyś nawiązać współpracę lub o coś po prostu zapytać - po prostu napisz.",
+    "reply": "Odpiszę tak szybko jak będę mógł.",
+    "name": "Jan Nowak",
+    "mail": "mail@gmail.com",
+    "message": "Wiadomość",
+    "sendBtn": "wyślij"
+  }
+}
