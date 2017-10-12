@@ -1,1 +1,1 @@
-﻿This is my Portfolio page - little SPA app created in ReactJS.
+﻿This is my Portfolio page - little SPA app created in ReactJS. Live review: www.bgorszczyk.pl
